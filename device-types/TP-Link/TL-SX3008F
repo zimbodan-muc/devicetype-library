@@ -1,0 +1,35 @@
+---
+manufacturer: TP-Link
+model: TL-SX3008F
+slug: tl-sx3008f
+part_number: TL-SX3008F
+comments: '[TP-Link TL-SX3008F Specifications](https://www.tp-link.com/de/business-networking/managed-switch/tl-sx3008f/#specifications)'
+is_full_depth: false
+u_height: 1
+console-ports:
+  - name: console
+    type: rj-45
+  - name: console-usb
+    type: usb-micro-b
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 16
+    allocated_draw: 16
+interfaces:
+  - name: '1'
+    type: 10gbase-x-sfpp
+  - name: '2'
+    type: 10gbase-x-sfpp
+  - name: '3'
+    type: 10gbase-x-sfpp
+  - name: '4'
+    type: 10gbase-x-sfpp
+  - name: '5'
+    type: 10gbase-x-sfpp
+  - name: '6'
+    type: 10gbase-x-sfpp
+  - name: '7'
+    type: 10gbase-x-sfpp
+  - name: '8'
+    type: 10gbase-x-sfpp
